@@ -1,0 +1,76 @@
+('C:\\Program '
+ 'Files\\Algoritmika\\vscode\\data\\extensions\\algoritmika.algopython-20250624.103906.0\\data\\student\\2228158\\555012\\build\\shooter_game\\shooter_game.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Program '
+   'Files\\Algoritmika\\vscode\\data\\extensions\\algoritmika.algopython-20250624.103906.0\\data\\student\\2228158\\555012\\build\\shooter_game\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Program '
+   'Files\\Algoritmika\\vscode\\data\\extensions\\algoritmika.algopython-20250624.103906.0\\data\\student\\2228158\\555012\\build\\shooter_game\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Program '
+   'Files\\Algoritmika\\vscode\\data\\extensions\\algoritmika.algopython-20250624.103906.0\\data\\student\\2228158\\555012\\build\\shooter_game\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Program '
+   'Files\\Algoritmika\\vscode\\data\\extensions\\algoritmika.algopython-20250624.103906.0\\data\\student\\2228158\\555012\\build\\shooter_game\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Program '
+   'Files\\Algoritmika\\vscode\\data\\extensions\\algoritmika.algopython-20250624.103906.0\\data\\student\\2228158\\555012\\build\\shooter_game\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Program '
+   'Files\\Algoritmika\\vscode\\data\\extensions\\algoritmika.algopython-20250624.103906.0\\data\\student\\2228158\\555012\\build\\shooter_game\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Program '
+   'Files\\Algoritmika\\algovenv\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Program '
+   'Files\\Algoritmika\\algovenv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Program '
+   'Files\\Algoritmika\\algovenv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Program '
+   'Files\\Algoritmika\\algovenv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'C:\\Program '
+   'Files\\Algoritmika\\algovenv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_pywintypes',
+   'C:\\Program '
+   'Files\\Algoritmika\\algovenv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\rthooks\\pyi_rth_pywintypes.py',
+   'PYSOURCE'),
+  ('pyi_rth_pythoncom',
+   'C:\\Program '
+   'Files\\Algoritmika\\algovenv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\rthooks\\pyi_rth_pythoncom.py',
+   'PYSOURCE'),
+  ('shooter_game',
+   'C:\\Program '
+   'Files\\Algoritmika\\vscode\\data\\extensions\\algoritmika.algopython-20250624.103906.0\\data\\student\\2228158\\555012\\shooter_game.py',
+   'PYSOURCE')],
+ 'python39.dll',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
